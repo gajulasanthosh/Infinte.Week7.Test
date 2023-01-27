@@ -1,5 +1,4 @@
-﻿Use Hr
-go
+
 
 create proc Insert_Position_Details(@PositionCode char(4),
 									@Description varchar(35),
